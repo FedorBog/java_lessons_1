@@ -11,5 +11,8 @@ public class If {
         } else{
             System.out.println("Others");
         }
+
+        String rand = ( Math.random( ) * 10 > 5) ? ">5": "<5";
+        System.out.println(rand);
     }
 }
