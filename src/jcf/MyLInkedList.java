@@ -1,4 +1,4 @@
-package advanced;
+package jcf;
 
 import java.util.Arrays;
 

@@ -1,3 +1,5 @@
+package practice;
+
 import jdk.swing.interop.SwingInterOpUtils;
 
 public class Strings {
